@@ -12,7 +12,7 @@ View the live dashboard at https://vehicletrends.us (preview below)
 <div align="center">
 
 <a href="https://vehicletrends.us/">
-<img src="images/vehicletrends.gif" alt="Watch the surveydown video" width="600"/>
+<img src="images/vehicletrends.gif" alt="gif of browsing through the main dashboard site" width="600"/>
 </a>
 
 </div>
