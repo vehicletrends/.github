@@ -4,7 +4,7 @@ The project was created by [Nithin Sarva](https://www.linkedin.com/in/nithin-sar
 
 The main repositories are:
 
-- [`dashboard`](https://github.com/vehicletrends/dashboard): Source code for the interactive data visualization dashboard (built using [Quarto]([url](https://quarto.org/))).
+- [`dashboard`](https://github.com/vehicletrends/dashboard): Source code for the interactive data visualization dashboard (built using [Quarto](https://quarto.org/)).
 - [`vehicletrends`](https://github.com/vehicletrends/vehicletrends): Source code for the R data package containing tidy, analysis-ready summary statistics on U.S. vehicle trends. 
 
 View the live dashboard at https://vehicletrends.us (preview below)
